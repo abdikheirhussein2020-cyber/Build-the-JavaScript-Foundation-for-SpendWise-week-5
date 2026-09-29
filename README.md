@@ -27,8 +27,6 @@ The SpendWise project demonstrates the following JavaScript concepts:
 
 Variables are used to store important budgeting information.
 
-The application uses variables for the monthly budget and total expenses.
-
 ```javascript
 let monthlyBudget;
 let totalExpenses;
